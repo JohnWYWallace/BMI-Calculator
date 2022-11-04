@@ -107,7 +107,7 @@
                                         </userDefinedRuntimeAttributes>
                                         <connections>
                                             <action selector="calculatePressed:" destination="lfg-xD-9Wu" eventType="touchUpInside" id="vpW-Uj-bwm"/>
-                                            <segue destination="Moi-fg-avX" kind="presentation" id="NmJ-LY-1NL"/>
+                                            <segue destination="Moi-fg-avX" kind="presentation" identifier="goToResult" id="NmJ-LY-1NL"/>
                                         </connections>
                                     </button>
                                 </subviews>
